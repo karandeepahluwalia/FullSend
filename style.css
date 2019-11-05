@@ -1,0 +1,16 @@
+header {
+    background-color: lightgreen
+}
+body{
+    min-width: 600px;
+    min-height: 400px;
+}
+#greet {
+    text-align: center;
+}
+.options {
+    display: inline-block;
+    margin: 5px 40px;
+    text-align: center;
+    background-color: lightgray
+}
